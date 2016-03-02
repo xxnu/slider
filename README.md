@@ -1,3 +1,3 @@
 # Slider. 
 
-OK I think I have this. 
+Building sliders for fun

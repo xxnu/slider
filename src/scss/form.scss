@@ -1,0 +1,15 @@
+@import "bourbon";
+
+$dark: #777;
+$light: #f9f9f9;
+$font-family-base: 'Raleway', sans-serif;
+
+
+body {
+    background-color: $light;
+    color: $dark;
+    font-family: $font-family-base;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 200;
+}
